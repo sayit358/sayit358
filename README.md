@@ -1,1 +1,1 @@
-### Moved to [GitLab](https://gitlab.com/sayit)
+[primary](https://gitlab.com/sayit)
